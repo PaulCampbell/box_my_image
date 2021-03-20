@@ -8,7 +8,7 @@ functions-framework==1.2.0
 idna==2.9
 image==1.5.28
 itsdangerous==1.1.0
-Jinja2==2.11.1
+Jinja2==2.11.3
 MarkupSafe==1.1.1
 pathtools==0.1.2
 Pillow==7.0.0
